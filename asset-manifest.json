@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/it-incubator-exam-count/static/css/main.54410b29.chunk.css",
+    "main.js": "/it-incubator-exam-count/static/js/main.7dcce601.chunk.js",
+    "main.js.map": "/it-incubator-exam-count/static/js/main.7dcce601.chunk.js.map",
+    "runtime-main.js": "/it-incubator-exam-count/static/js/runtime-main.ba9d8950.js",
+    "runtime-main.js.map": "/it-incubator-exam-count/static/js/runtime-main.ba9d8950.js.map",
+    "static/js/2.81dcb7ee.chunk.js": "/it-incubator-exam-count/static/js/2.81dcb7ee.chunk.js",
+    "static/js/2.81dcb7ee.chunk.js.map": "/it-incubator-exam-count/static/js/2.81dcb7ee.chunk.js.map",
+    "static/js/3.72fe968b.chunk.js": "/it-incubator-exam-count/static/js/3.72fe968b.chunk.js",
+    "static/js/3.72fe968b.chunk.js.map": "/it-incubator-exam-count/static/js/3.72fe968b.chunk.js.map",
+    "index.html": "/it-incubator-exam-count/index.html",
+    "static/css/main.54410b29.chunk.css.map": "/it-incubator-exam-count/static/css/main.54410b29.chunk.css.map",
+    "static/js/2.81dcb7ee.chunk.js.LICENSE.txt": "/it-incubator-exam-count/static/js/2.81dcb7ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba9d8950.js",
+    "static/js/2.81dcb7ee.chunk.js",
+    "static/css/main.54410b29.chunk.css",
+    "static/js/main.7dcce601.chunk.js"
+  ]
+}
