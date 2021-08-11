@@ -1,0 +1,68 @@
+body{
+    background-color: #282c34;
+}
+
+.mainBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+
+}
+
+.row {
+    width: auto;
+    border: 3px solid #61dafb;
+    border-radius: 10px;
+
+}
+
+.buttonBlock{
+    border: 3px solid #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.staticNumber {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.styleLastNumber {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btnInc {
+  padding: 3px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #61dafb;
+}
+
+.btnReset {
+    padding: 3px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #61dafb;
+}
